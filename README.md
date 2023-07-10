@@ -1,6 +1,6 @@
 # PageTreineMe
 
-Pagina De Marketing de uma academia
+Pagina De Inicio de uma academia
 
 (os botões são decorativos)
 
